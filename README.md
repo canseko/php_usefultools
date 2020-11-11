@@ -6,5 +6,5 @@ Source:\
 https://sourceforge.net/projects/phpqrcode/ \
 \
 Examples and documentation:\
-http://phpqrcode.sourceforge.net/ \
+http://phpqrcode.sourceforge.net/
 
