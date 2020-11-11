@@ -2,5 +2,9 @@
 Common and useful libraries that I use often in my projects
 
 # phpqrcode 
-https://sourceforge.net/projects/phpqrcode/
-This library help you to generate a qr code.
+Source:\
+https://sourceforge.net/projects/phpqrcode/\
+\
+Examples and documentation:\
+http://phpqrcode.sourceforge.net/\
+
