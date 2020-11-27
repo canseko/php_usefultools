@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/amexwebgold/!svn/ver/274/trunk/PHPMailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/amexwebgold/!svn/ver/2/trunk/PHPMailer/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/amexwebgold/!svn/ver/2/trunk/PHPMailer/changelog.txt
+END
+docs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/amexwebgold/!svn/ver/2/trunk/PHPMailer/docs.ini
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/amexwebgold/!svn/ver/2/trunk/PHPMailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/amexwebgold/!svn/ver/2/trunk/PHPMailer/class.pop3.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/amexwebgold/!svn/ver/2/trunk/PHPMailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/amexwebgold/!svn/ver/2/trunk/PHPMailer/class.smtp.php
+END

@@ -1,0 +1,2 @@
+[02-Sep-2016 11:18:31 America/Chicago] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home2/serverng/public_html/aeweb.mobi/PHPMailer/test/test_callback.php on line 8
+[02-Sep-2016 11:18:31 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUdV5a7' to '' in /home2/serverng/public_html/aeweb.mobi/PHPMailer/test/test_callback.php on line 8
