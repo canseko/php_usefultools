@@ -1,7 +1,7 @@
 <?php
 include 'includes/includes.php';
 
-$filename = "csvs/acopiadores.csv";
+$filename = "csvs/acopiapdores_2020-12.csv";
 
 if (($handle = fopen($filename, "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
