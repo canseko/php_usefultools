@@ -1,7 +1,7 @@
 <?php
 include 'includes/includes.php';
 
-$filename = "csvs/acopiapdores_2020-12.csv";
+$filename = "csvs/2021-05-28_directorio_nacional.csv";
 
 if (($handle = fopen($filename, "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
@@ -11,27 +11,25 @@ if (($handle = fopen($filename, "r")) !== FALSE) {
         $fields["estado"] = $data[0];
         $fields["municipio"] = $data[1];
         $fields["razon_social"] = $data[2];
-        $fields["permiso"] = $data[3];
-        $fields["observaciones"] = $data[4];
-        $fields["encargado"] = $data[5];
-        $fields["direccion"] = $data[6];
-        $fields["codigo_postal"] = $data[7];
-        $fields["referencias"] = $data[8];
-        $fields["horario"] = $data[9];
-        $fields["telefono"] = $data[10];
-        $fields["web"] = $data[11];
-        $fields["email"] = $data[12];
-        $fields["mapa"] = $data[13];
-        $fields["longitud"] = $data[14];
-        $fields["latitud"] = $data[15];
+        $fields["direccion"] = $data[3];
+        // $fields["mapa"] = $data[4];
+        $fields["latitud"] = $data[4];
+        $fields["longitud"] = $data[5];
+        $fields["horario"] = $data[6];
+        $fields["telefono"] = str_replace("\n","<br>",$data[7]);
+        $fields["web"] = $data[8];
+        $fields["redes_sociales"] = $data[9];
+        $fields["email"] = str_replace("\n","<br>",$data[10]);
+        
+        
         
         $obj->add($fields); 
 
         $id_centros_acopio = $obj->get_var("SELECT id FROM centros_acopio ORDER BY id DESC LIMIT 1");
-        for($i = 16; $i <= 32; $i++){
+        for($i = 11; $i <= 21; $i++){
             if($data[$i] != ""){
                 //Se resta quince para obtener el valor del id_material
-                $id_materiales = $i - 15;
+                $id_materiales = $i - 10;
                 $query = "INSERT INTO centros_acopio_materiales (id_centros_acopio, id_materiales) VALUES ($id_centros_acopio, $id_materiales)";
                 $obj->query($query);
                 
