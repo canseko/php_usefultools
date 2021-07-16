@@ -19,3 +19,9 @@ define('DB_PASSWORD', 'root');
 define('DB_NAME', 'ecoce');
 define('DB_HOST', 'localhost');
 define('DEBUG', false);
+
+// define('DB_USER', 'root');
+// define('DB_PASSWORD', 'root');
+// define('DB_NAME', 'conectabee_laravel');
+// define('DB_HOST', 'localhost');
+// define('DEBUG', false);
