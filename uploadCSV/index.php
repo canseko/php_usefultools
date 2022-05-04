@@ -1,7 +1,7 @@
 <?php
 include 'includes/includes.php';
 
-$filename = "csvs/2021-12-07_directorio_nacional.csv";
+$filename = "csvs/2022-05-03_directorio_nacional.csv";
 
 if (($handle = fopen($filename, "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
@@ -21,8 +21,6 @@ if (($handle = fopen($filename, "r")) !== FALSE) {
         $fields["web"] = $data[10];
         $fields["redes_sociales"] = $data[11];
         $fields["email"] = str_replace("\n","<br>",$data[12]);
-        
-        
         
         $obj->add($fields); 
 
