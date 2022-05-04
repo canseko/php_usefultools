@@ -1,0 +1,471 @@
+NP,Nombre del Programa,Nombre del Punto,Estado,Municipio,Colonia,Dirección,latitud,longitud,Materiales
+1,Acopio Móvil,Parque Dr. Luis Guevara Camacho,Oaxaca,Heroica Ciudad de Huajuapan de León,Del Carmen,Jerusalén,17.795464,-97.786795,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+2,Acopio Móvil,"Colonia Centro, San Andres Dinicuiti",Oaxaca,San Andrés Dinicuiti,Centro,Miguel Hidalgo,17.688798,-97.726693,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+3,Acopio Móvil,Santiago Cacaloxtepec,Oaxaca,Santiago Cacaloxtepec,Centro,Reforma,17.721161,97.742058,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+4,Acopio Móvil,Santa María Camotlán,Oaxaca,Santa María Camotlán,Centro,Antonio de León,17.897685,-97.692843,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+5,Acopio Móvil,Cerca de Parque Municipal,Oaxaca,Villa de Tamazulapan del Progreso,Centro,Avenida principal,17.672062,-97.573317,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+6,Acopio Móvil,San Jose Ayuquila,Oaxaca,San Jose Ayuquila,Centro,Hidalgo,17.943719,-97.969061,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+7,Acopio Móvil,Santa Catarina,Oaxaca,Santiago Ayuquililla,Centro,Benito Juárez,17.955576,-98.011498,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+8,Acopio Móvil,Col. Guadalupe,Oaxaca,Heroica Ciudad de Huajuapan de León,Guadalupe,Guadalupe Victoria,17.808887,-97.7836,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+9,Acopio Móvil,Parque Fovissste,Oaxaca,Heroica Ciudad de Huajuapan de León,Fovissste,C. 15,17.82688,-97.781314,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+10,Acopio Móvil,Santiago Chilixtlahuaca ,Oaxaca,Heroica Ciudad de Huajuapan de León,Barrio de Guadalupe,Matamoros,17.905328,-97.895191,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+11,Acopio Móvil,Col. Reforma,Oaxaca,Heroica Ciudad de Huajuapan de León,Reforma,Av. Ermita,17.822826,-97.784944,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+12,Acopio Móvil,Tejaltitlán,Oaxaca,San Jerónimo Silacayoapilla,Tejaltitlán,Flores,17.79919,-97.842656,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+13,Acopio Móvil,Cerca de la Iglesia san Diego de Alcalá,Oaxaca,Heroica Ciudad de Huajuapan de León,Santa María Xochixtlapilco,,17.780684,-97.787974,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+14,Acopio Móvil,Col. Santa Rosa 2da Sección,Oaxaca,Heroica Ciudad de Huajuapan de León,Santa Rosa 2da Sección,,17.82447,-97.778815,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+15,Acopio Móvil,Cerca del Parque Municipal ,Oaxaca,Santiago Ayuquililla,Centro,Porfirio Díaz,17.934752,-97.958497,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+16,Acopio Móvil,Antorcha Popular,Oaxaca,Heroica Ciudad de Huajuapan de León,San Miguel,Calle Aquiles Córdoba,17.830119,-97.790076,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+17,Acopio Móvil,Arroyo Chahue,Oaxaca,Santa María Huatulco,Arroyo Chahue,Bahía Maguey,15.77151,-96.141587,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+18,Acopio Móvil,Sector U2 Norte Canchas,Oaxaca,Santa María Huatulco,Sector U2 Norte,,15.785891,-96.141835,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+19,Acopio Móvil,"Sector H2, en las Canchas de Basquetbol",Oaxaca,Santa María Huatulco,Sector H2,,15.765435,-96.133454,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+20,Acopio Móvil,Frente a la Primaria Sor Juana Ines de la Cruz,Oaxaca,Santa María Tonameca,Cuatode Tonameca,,15.73481,-96.51984,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+21,Acopio Móvil,Rancho Parajito,Oaxaca,Santa María Huatulco,Rancho Parajito,,15.793333,-96.135,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+22,Acopio Móvil,Centro de Cozoaltepec,Oaxaca,Santa María Tonameca,Santa María Tonameca,,15.745644,-96.545506,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+23,Acopio Móvil,Sector U2 Parque,Oaxaca,Santa María Huatulco,Sector U2,,15.779874,-96.140308,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+24,Acopio Móvil,Col. Laguna Seca,Oaxaca,Santa María Huatulco,Laguna Seca,,15.794444,-96.128889,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+25,Acopio Móvil,Comunidad Piedra de Moros / Arrollo González,Oaxaca,Santa María Huatulco,Piedra de Moros,,15.798409,-96.231115,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+26,Acopio Móvil,Comunidad Paso Ancho,Oaxaca,Santa María Huatulco,Paso Ancho,,15.83279,-96.321783,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+27,Acopio Móvil,Palotada / Los Ciruelos,Oaxaca,San Pedro Pochutla,Centro,,15.723411,-96.388976,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+28,Acopio Móvil,Comunidad Barra de Copalita,Oaxaca,Santa María Huatulco,Barra de Copalita,,15.818744,-96.06109,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+29,Acopio Móvil,Cuapinolito,Oaxaca,Santa María Huatulco,Cuapinolito,,15.839973,-96.317019,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+30,Acopio Móvil,El Arenoso / El Faisán,Oaxaca,Santa María Huatulco,El Arenoso,,15.7908,-96.191744,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+31,Acopio Móvil,Bajos de Coyula/puente Coyula,Oaxaca,Santa María Huatulco,Puente de Coyula,,15.752659,-96.29909,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+32,Acopio Móvil,Sector I,Oaxaca,Santa María Huatulco,Sector I,,15.765917,-96.130904,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+33,Acopio Móvil,Barra de La Cruz,Oaxaca,Santiago Astata,Barra de La Cruz,,15.839358,-95.970705,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+34,Acopio Móvil,Fraccionamiento San Agustin,Oaxaca,Santa María Huatulco,Fraccionamiento San Agustin,,15.761974,-96.274323,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+35,Acopio Móvil,Fraccionamiento el Crucero o el Zapote,Oaxaca,Santa María Huatulco,Fraccionamiento el Crucero o el Zapote,,15.761779,-96.277117,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+36,Acopio Móvil,Comunidad Barra de Copalita,Oaxaca,Santa María Huatulco,Barra de Copalita,,15.818744,-96.06109,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+37,Acopio Móvil,Explanada Municipal de San Martin Cansecos,Oaxaca,San Martin de los Cansecos,San Mateo Rio Hondo,Piedras Negras - San Mateo Rio Hondo,16.656705,-96.727847,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+38,Acopio Móvil,San Baltazar Chichicapam,Oaxaca,San Baltazar Chichicapam,centro,Calle Benito Juarez,16.761843,-96.489638,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+39,Acopio Móvil,Cerca de la Telesecundaria Jalpan,Oaxaca,San Raymundo Jalpan,San Raymundo Jalpan,Privada de Arista,16.97534,-96.754687,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+40,Acopio Móvil,Hidalgo,Oaxaca,Coatecas,Ricardo Flores Magón 3ra sección,Hidalgo,16.54324,-96.673175,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+41,Acopio Móvil,Explanada Municipal San Martín Tilcajete,Oaxaca,San Martín Tilcajete,Centro,Progreso,16.860465,-96.69443,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+42,Acopio Móvil,Explanada Municipal San Miguel Ejutla,Oaxaca,San Miguel Ejutla,Morelos,Porfirio Díaz,16.577619,-96.735742,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+43,Acopio Móvil,Yaxe,Oaxaca,Yaxe,San Baltazar Chichicapam,,16.726129,-96.471358,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+44,Acopio Móvil,San Antonio Arrazola,Oaxaca,Santa Cruz Xoxocotlán,San Antonio Arrazola,,17.021966,-96.758159,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+45,Acopio Móvil,Morelos,Oaxaca,Zimatlán de Álvarez,El Trapiche,Morelos,16.763822,-96.858029,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+46,Acopio Móvil,Reforma,Oaxaca,Heroica Ciudad de Ejutla de Crespo,Reforma,Reforma,16.615171,-96.719178,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+47,Acopio Móvil,Ayoquezco de Aldama,Oaxaca,Zimatlán de Álvarez,Ayoquezco de Aldama,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+48,Acopio Móvil,Los Ocotes,Oaxaca,Heroica Ciudad de Ejutla de Crespo,Los Ocotes,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+49,Acopio Móvil,Hidalgo,Oaxaca,Coatecas,Ricardo Flores Magón 3ra sección,Hidalgo,16.54324,-96.673175,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+50,Acopio Móvil,Palacio Municipal,Oaxaca,San Pablo Huixtepec,Centro,Matamoros,16.82636,-96.78113,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+51,Acopio Móvil,Barrio San Antonio,Oaxaca,San Pablo Huixtepec,Barrio San Antonio,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+52,Acopio Móvil,Vicente Guerrero,Oaxaca,Cuilapam de Guerrero,Vicente Guerrero,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+53,Acopio Móvil,Tejas de Morelos,Oaxaca,Ocotlán de Morelos,Tejas de Morelos,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+54,Acopio Móvil,Barrio de Arriba,Oaxaca,Zimatlán de Álvarez,Centro,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+55,Acopio Móvil,Parque de San Pedro Apóstol,Oaxaca,Ocotlán de Morelos,Centro,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+56,Acopio Móvil,Campo de Beisbol Tequio Monte Alban,Oaxaca,San Agustín de las Juntas,Centro,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+57,Acopio Móvil,Col. Reforma,Oaxaca,Oaxaca de Juárez,Reforma,,17.078458,-96.713724,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+58,Acopio Móvil,Santiago Matatlán,Oaxaca,Santiago Matatlán,Santiago Matatlán,,16.868327,-96.381187,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+59,Acopio Móvil,San Baltazar Guelavila,Oaxaca,San Dionisio Ocotepec,Centro,,16.793966,-96.304495,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+60,Acopio Móvil,Fraccionamiento el Retiro,Oaxaca,Santa María Guelace,Fraccionamiento el Retiro,,17.04669,-96.63296,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+61,Acopio Móvil,San Sebastián Abasolo,Oaxaca,San Sebastián Abasolo,San Sebastián Abasolo,,16.995183,-96.589539,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+62,Acopio Móvil,Santa Lucia del Camino,Oaxaca,Santa Lucía del Camino,Villa de Díaz Ordaz,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+63,Acopio Móvil,Benito Juárez,Oaxaca,Villa Díaz Ordaz,Villa Díaz Ordaz,Benito Juárez,16.996596,-96.432531,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+64,Acopio Móvil,San Andres Ixtlahuaca,Oaxaca,San Andres Ixtlahuaca,Benito Juárez,,17.071832,-96.82695,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+65,Acopio Móvil,Templo de San Lucas,Oaxaca,San Lucas Quiavíni,Centro,,16.895017,-96.468011,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+66,Acopio Móvil,San Juan Guelavia,Oaxaca,San Juan Guelavia,Morelos,,16.9565,-96.546105,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+67,Acopio Móvil,Av. Coixtlahuaca,Oaxaca,San Pablo Huitzo,San Pablo Huitzo,Av. Coixtlahuaca,17.277369,-96.885164,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+68,Acopio Móvil,San Dionisio Ocotepec,Oaxaca,San Dionisio Ocotepec,Centro,,16.802805,-96.393132,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+69,Acopio Móvil,Santa Ana del Valle,Oaxaca,Santa Ana del Valle,Santa Ana del Valle,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+70,Acopio Móvil,Fraccionamiento el Rosario,Oaxaca,San Sebastián Tutla,Fraccionamiento el Rosario,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+71,Acopio Móvil,San Marcos Tlapazola,Oaxaca,Tlacolula de Matamoros,Centro,Avenida Principal,16.868269,-96.379761,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+72,Acopio Móvil,Fraccionamiento Ciudad Yagul,Oaxaca,Tlacolula de Matamoros,Ciudad Yugul,,16.978338,-96.462632,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+73,Acopio Móvil,San Felipe Güila,Oaxaca,Santiago Matatlán,San Felipe Güila,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+74,Acopio Móvil,San Bartolomé Quialana,Oaxaca,San Bartolomé Quialana,Centro,,16.903122,-96.501476,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+75,Acopio Móvil,Benito Juárez,Oaxaca,Villa Díaz Ordaz,Villa Díaz Ordaz,,16.996596,-96.432531,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+76,Acopio Móvil,Jalapa del Valle,Oaxaca,San Felipe Tejalápam,Jalapa del Valle,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+77,Acopio Móvil,Av. Libertad ,Oaxaca,Santa María Atzompa,Centro,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+78,Acopio Móvil,Miramar,Oaxaca,Santiago Pinotepa Nacional,Miramar,Progreso,16.333239,-98.055112,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+79,Acopio Móvil,Collantes,Oaxaca,Santiago Pinotepa Nacional,Centro,,16.187162,-97.970957,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+80,Acopio Móvil,"Parque Central Morelos, Santa Ma. Huazolotitlán",Oaxaca,Santa María Huazolotitlán,José María Morelos,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+81,Acopio Móvil,Iglesia Santiago Apóstol,Oaxaca,San Pedro Jicayán ,Col. Centro,Calle Pacifico,16.448945,-98.015738,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+82,Acopio Móvil,Cubitan de Dolores,Oaxaca,San Andrés Huaxpaltepec,Centro,,16.358675,-97.891566,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+83,Acopio Móvil,Centro de Fe y Amor,Oaxaca,Santa Catarina Mechoacán,Centro,,16.333356,-98.058265,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+84,Acopio Móvil,Comedor Juquilita,Oaxaca,San Agustín Chayuco,Centro,,16.40232,-97.808108,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+85,Acopio Móvil,Col. Aviación,Oaxaca,Santiago Jamiltepec,Aviación,,16.450455,-98.014066,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+86,Acopio Móvil,Cerca de la Secundaria Tec. Ind. No. 123 T.M,Oaxaca,San Pedro Jicayán ,Itindúa,,16.331885,-98.046956,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+87,Acopio Móvil,Cruz de Itacuán,Oaxaca,Santiago Pinotepa Nacional,Cruz de Itacuán,,16.281379,-97.833559,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+88,Acopio Móvil,5 de Mayo,Oaxaca,Santiago Pinotepa Nacional,5 de Mayo,,16.21161,-97.97903,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+89,Acopio Móvil,El Carrizo,Oaxaca,Santiago Pinotepa Nacional,El Carrizo,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+90,Acopio Móvil,Iglesia de San Andrés Tatachu,Oaxaca,San Andrés Huaxpaltepec,Centro,,16.329616,-97.916553,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+91,Acopio Móvil,Parque Central,Oaxaca,Pinotepa de Don Luis,Centro,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+92,Acopio Móvil,Cerro de la Esperanza,Oaxaca,Santiago Pinotepa Nacional,La Esperanza,,16.211503,-97.978724,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+93,Acopio Móvil,La Noria,Oaxaca,Santiago Pinotepa Nacional,Centro,,16.202359,-98.063625,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+94,Acopio Móvil,Parque Rasgado,Oaxaca,Salina Cruz,María Lombardo,Calle Porvenir,16.198935,-95.2020206,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+95,Acopio Móvil,Santa Cruz Bamba,Oaxaca,Santo Domingo Tehuantepec,Santa Cruz Bamba,,16.031679,-95.425597,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+96,Acopio Móvil,Deportiva Sur,Oaxaca,Salina Cruz,Deportiva Sur,Vicente Guerrero,16.209074,-95.207554,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+97,Acopio Móvil,Calle Manuel Ávila Camacho,Oaxaca,Salina Cruz,Francisco I. Madero,Calle Manuel Ávila Camacho,16.219407,-95.213022,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+98,Acopio Móvil,Barrio las Hormigas,Oaxaca,Salina Cruz,Las Hormigas,,16.181541,-95.193725,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+99,Acopio Móvil,Calle Virgilio Uribe,Oaxaca,Salina Cruz,Guadalupe,Calle Virgilio Uribe,16.176616,-95.197547,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+100,Acopio Móvil,Calle Loma Bonita,Oaxaca,Salina Cruz,Del Bosque,Calle Loma Bonita,16.213895,-95.222395,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+101,Acopio Móvil,Fraccionamiento Tortolita,Oaxaca,Salina Cruz,Playa la Colorada,Bahía San Diego,15.987747,-95.675805,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+102,Acopio Móvil,Hidalgo Poniente,Oaxaca,Salina Cruz,Hidalgo Poniente,Avenida Vicente Guerrero,16.205627,-95.206538,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+103,Acopio Móvil,Morro de Mazatan,Oaxaca,Santo Domingo Tehuantepec,Morro de Mazatan,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+104,Acopio Móvil,Calzada Teniente José Azueta,Oaxaca,Salina Cruz,San Pablo Norte,Calzada Teniente José Azueta,16.172907,-95.201725,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+105,Acopio Móvil,Av. del Trabajo,Oaxaca,Salina Cruz,Barrio Espinal,Av. del Trabajo,16.184708,-95.198517,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+106,Acopio Móvil,Calle Venustiano Carranza,Oaxaca,Salina Cruz,San Pablo Sur,Calle Venustiano Carranza,16.172923,-95.205381,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+107,Acopio Móvil,Mercado Publico Independencia,Oaxaca,San Pedro Huilotepec,Centro,,16.244132,-95.152956,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+108,Acopio Móvil,Hugo Mayoral,Oaxaca,Salina Cruz,Hugo Mayoral,16 de Octubre,16.207202,-95.216685,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+109,Acopio Móvil,Barrio Nuevo,Oaxaca,Salina Cruz,Barrio Nuevo,,16.179255,-95.198141,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+110,Acopio Móvil,Calle la Bahía Ventosa,Oaxaca,Salina Cruz,La Soledad,Calle la Bahía Ventosa,16.188723,-95.184264,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+111,Acopio Móvil,Calle Miahuatlán,Oaxaca,Salina Cruz,Petrolera,Calle Miahuatlán,16.204591,-95.192439,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+112,Acopio Móvil,Unidad Deportiva Imss,Oaxaca,Salina Cruz,Deportiva Norte,,16.213851,-95.21112,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+113,Acopio Móvil,Av. Tampico,Oaxaca,Salina Cruz,1 de Mayo,Av. Tampico,16.192418,-95.200556,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+114,Acopio Móvil,Santa Cruz Bamba,Oaxaca,Santa Cruz Bamba,Centro,,16.031679,-95.425597,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+115,Acopio Móvil,Calle Tehuantepec,Oaxaca,Salina Cruz,Porfirio Díaz,Calle Tehuantepec,16.214607,-95.19817,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+116,Acopio Móvil,Av. Pipila,Oaxaca,Santo Domingo Tehuantepec,José López Portillo,Esquina Cuauhtémoc ,16.312414,-95.258371,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+117,Acopio Móvil,Av. Aquiles Serdán,Oaxaca,Santo Domingo Tehuantepec,Barrio Lieza,Esquina con Cuauhtémoc,16.331605,-95.240606,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+118,Acopio Móvil,Calle Morelos ,Oaxaca,Santa María Mexquitilla,Santa Maria Mixtequilla,Calle Morelos esquina Ignacio López Rayón,16.37548,-95.260041,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+119,Acopio Móvil,Avenida Juárez,Oaxaca,Santo Domingo Tehuantepec,Barrio Jalisco,Avenida Juárez,16.326824,-95.231374,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+120,Acopio Móvil,Iglesia de la Santa Cruz,Oaxaca,San Pedro Comitancillo,Centro,,16.491987,-95.160923,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+121,Acopio Móvil,Parque Garibaldi,Oaxaca,Ciudad Ixtepec,Moderna,,16.556518,-95.095466,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+122,Acopio Móvil,Santo Domingo Chihuitán,Oaxaca,Santo Domingo Chihuitán,El Rosario,,16.591749,-95.162422,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+123,Acopio Móvil,Calle Morelos ,Oaxaca,Santa María Mexquitilla,Santa Maria Mixtequilla,Calle Morelos esquina Ignacio López Rayón,16.37548,-95.260041,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+124,Acopio Móvil,Jalapa del Marqués,Oaxaca,Santa María Jalapa del Marques,Centro,,16.439921,-95.443492,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+125,Acopio Móvil,Calle Porfirio Diaz ,Oaxaca,Santo Domingo Tehuantepec,San Antonio Monterrey,Entre Francisco I. Madero ,16.246264,-95.191631,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+126,Acopio Móvil,Calle Juárez ,Oaxaca,Santo Domingo Tehuantepec,San Luis Rey,,16.380163,-95.240956,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+127,Acopio Móvil,Calle Coronel Francisco Cortez ,Oaxaca,San Blas Atempa,San Blas Atempa,Esquina Francisco I. Madero,16.325392,-95.221578,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+128,Acopio Móvil,Comedor Lucy,Oaxaca,Magdalena Tequisistlán,Centro,Calle Benito Juárez y del Beso,16.399994,-95.605087,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+129,Acopio Móvil,Las Pajimas,Oaxaca,Magdalena Tequisistlán,Las Pajimas,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+130,Acopio Móvil,Calle Morelos ,Oaxaca,Santa María Mexquitilla,Santa Maria Mixtequilla,Calle Morelos esquina Ignacio López Rayón ,16.37548,-95.260041,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+131,Acopio Móvil,Rincón Moreno,Oaxaca,Santo Domingo Tehuantepec,Rincón Moreno,,16.229478,-95.312736,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+132,Acopio Móvil,Parque Municipal,Oaxaca,El Espinal,El Espinal,Cristóbal Colón y Benito Juárez,16.485541,-95.044025,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+133,Acopio Móvil,Ciudad Ixtepec,Oaxaca,Ciudad Ixtepec,Ixtepec,,16.556004,-95.095693,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+134,Acopio Móvil,Calle Ixtaltepec ,Oaxaca,Santo Domingo Tehuantepec,Centro,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+135,Acopio Móvil,El Trópico,Oaxaca,San Juan Bautista Tuxtepec,El Trópico,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+136,Acopio Móvil,El Naranjal,Oaxaca,San José Chiltepec,El Naranjal,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+137,Acopio Móvil,Paso Nuevo la Hamaca,Oaxaca,Santa María Jacatepec,Paso Nuevo la Hamaca,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+138,Acopio Móvil,El Arenal,Oaxaca,San Juan Bautista Valle Nacional,El Arenal,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+139,Acopio Móvil,Comunidad Bethania,Oaxaca,San Juan Bautista Tuxtepec,Comunidad Bethania,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+140,Acopio Móvil,Camarón Salsipuedes ,Oaxaca,San Juan Bautista Tuxtepec,Camarón Salsipuedes ,,18.108854,-96.202631,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+141,Acopio Móvil,Piedra Quemada,Oaxaca,San Juan Bautista Tuxtepec,Piedra Quemada,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+142,Acopio Móvil,Comunidad Cerro Marín,Oaxaca,San Juan Bautista Valle Nacional,Cerro Marín,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+143,Acopio Móvil,Comunidad Zacate Colorado,Oaxaca,San Juan Bautista Tuxtepec,Comunidad Zacate Colorado,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+144,Acopio Móvil,Comunidad Chinantilla,Oaxaca,San Juan Bautista Valle Nacional,Comunidad Chinantilla,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+145,Acopio Móvil,Comunidad Reforma,Oaxaca,San Juan Bautista Tuxtepec,Comunidad Reforma,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+146,Acopio Móvil,Comunidad Vega del Sol,Oaxaca,Santa María Jacatepec,Comunidad Vega del Sol,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+147,Acopio Móvil,Frente al COBAO 54 Tierra Negra,Oaxaca,San José Chiltepec,Tierra Negra,,17.95432,-96.163913,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+148,Acopio Móvil,Col. Centro,Oaxaca,San Juan Bautista Valle Nacional,Centro,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+149,Acopio Móvil,Las Limas,Oaxaca,San Juan Bautista Tuxtepec,Las Limas,,18.069973,-96.124012,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+150,Acopio Móvil,Comunidad Nuevo Faisán,Oaxaca,San Juan Bautista Tuxtepec,Comunidad Nuevo Faisán,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+151,Acopio Móvil,Camarón Salsipuedes ,Oaxaca,San Juan Bautista Tuxtepec,Camarón Salsipuedes ,,18.108854,-96.202631,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+152,Acopio Móvil,La Trinidad,Oaxaca,Santa María Jacatepec,La Trinidad,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+153,Acopio Móvil,Comunidad Santa Sofía,Oaxaca,San José Chiltepec,Comunidad Santa Sofía,,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+154,Acopio Móvil,Comunidad de la Mina,Oaxaca,San Juan Bautista Tuxtepec,La Mina,,17.986081,-96.100046,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+155,Acopio Móvil,La Blanca,Oaxaca,Santo Domingo Ingenio ,La Blanca,,16.59386,-94.69302,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+156,Acopio Móvil,La Venta,Oaxaca,Juchitán de Zaragoza,La Venta,,16.57567,-94.81622,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+157,Acopio Móvil,El Porvenir,Oaxaca,San Miguel Chimalapa,El Porvenir,,17.472052,-95.25688,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+158,Acopio Móvil,Vista Hermosa,Oaxaca,San Miguel Chimalapa,Vista Hermosa,,16.667201,-94.784553,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+159,Acopio Móvil,San Miguel Chimalapa,Oaxaca,San Miguel Chimalapa,San Miguel Chimalapa,,16.479768,-94.83445,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+160,Acopio Móvil,Unión Hidalgo,Oaxaca,Unión Hidalgo,Centro,,16.479768,-94.83445,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+161,Acopio Móvil,Unión Hidalgo,Oaxaca,Unión Hidalgo,Centro,,16.479768,-94.83445,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+162,Acopio Móvil,Parque San Pedro Tepanatepec,Oaxaca,San Pedro Tapanatepec,Centro,,16.366816,-94.193928,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+163,Acopio Móvil,Rincón Juarez,Oaxaca,San Pedro Tapanatepec,Rincón Juarez,,16.280988,-94.354205,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+164,Acopio Móvil,Santo Domingo Ingenio ,Oaxaca,Santo Domingo Ingenio ,Centro,,16.584291,-94.769716,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+165,Acopio Móvil,Unión Hidalgo,Oaxaca,Unión Hidalgo,Centro,,16.479768,-94.83445,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+166,Acopio Móvil,San Dionisio del Mar,Oaxaca,San Dionisio del Mar,Centro,,16.323834,-94.756485,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+167,Acopio Móvil,Chicapa de Castro,Oaxaca,Juchitán de Zaragoza,Centro,,16.438594,-94.82276,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+168,Acopio Móvil,Asunción Ixtaltepec,Oaxaca,Asunción Ixtaltepec,Centro,,16.503403,-95.057636,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+169,Acopio Móvil,Boca del Monte,Oaxaca,San Juan Guachicovi,Boca del Monte,,17.061871,-95.017931,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+170,Acopio Móvil,Hidalgo Norte,Oaxaca,Matías Romero,Hidalgo Norte,,16.880214,-95.050076,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+171,Acopio Móvil,Asunción Ixtaltepec,Oaxaca,Asunción Ixtaltepec,Centro,,16.503403,-95.057636,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+172,Eco-Reto,Colegio de Bachilleres del Estado de Oaxaca Plantel 40 Bajo de Chila T.M,Oaxaca,San Pedro Mixtepec Dtto-22,Centro,Av. Primero de Mayo s/n esq. carretera Costera,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+173,Eco-Reto,Primaria Benito Juárez Tilzapote T.M.,Oaxaca,Santa María Tonameca,Tilzapote,Carretera Km. 1 Pochutla Col. Tilzapote C.P. 70946,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+174,Eco-Reto,J.N. Mestizo Jean Piaget T.M. ,Oaxaca,Santa María Tonameca,Agua Blanca,Carretera Federal 200 Col. Agua Blanca C.P. 70944,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+175,Eco-Reto,Primaria Vicente Guerrero T.M.,Oaxaca,Santa María Tonameca,Centro,"Carretera  Costera Puerto Escondido-Pochutla, colonia Centro. C.P. 70944",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+176,Eco-Reto,Secundaria General Macedonio Alcalá T.M.,Oaxaca,Santa María Tonameca,Centro,"Las Azucenas s/n, colonia Centro",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+177,Eco-Reto,Primaria Ignacio Mariscal T.M.,Oaxaca,Santa María Colotepec,Barra de Navidad,"Avenida Principal s/n, Colonia Barra de Navidad, C.P. 70934",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+178,Eco-Reto,Primaria Francisco I. Madero T.M. (Tomatal),Oaxaca,Santa María Colotepec,El Tomatal,"Calle Centro s/n, Colonia El Tomatal, C.P. 70934",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+179,Eco-Reto,Primaria Benjamín Bloom T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Fraccionamiento Bacocho,"Av. Tlacochahuaya Mz. IV-A lt1, Col. Fraccionamiento Bacocho, C.P. 71980",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+180,Eco-Reto,J.N. María del Carmen Serdán (Barra) T.M.,Oaxaca,Santa María Colotepec,Barra de Navidad,"Calle Principal s/n, Colonia Barra de Navidad, C.P. 70934",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+181,Eco-Reto,Primaria 1972 Año de Juárez T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Lázaro Cárdenas,"Avenida María Matamoros s/n, colonia Lázaro Cárdenas, Puerto Escondido, C.P. 71980",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+182,Eco-Reto,Preparatoria Federal por Cooperación Puerto Escondido T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Sector Hidalgo,"Eje Hidalgo esquina con Quinta Poniente, colonia Sector Hidalgo. C.P. 71980",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+183,Eco-Reto,Primaria Álvaro Carrillo Alarcón T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Fraccionamiento La Parota,"Ceiba s/n, colonia Fraccionamiento La Parota. C.P. 71980",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+184,Eco-Reto,Primaria Lic. Adolfo López Mateos T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Centro,"Primera Poniente s/n, ColoniaCentro, C.P. 71980",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+185,Eco-Reto,J.N. a Primaria Centro de Atención Múltiple 20 T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Fraccionamiento Agua Marina,"Agua Turquesa s/n, Colonia Fraccionamiento Agua Marina, C.P. 71980",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+186,Eco-Reto,J.N Leyes de Reforma T.M,Oaxaca,San Pedro Mixtepec Dtto-22,Sector Reforma,3 Oriente y 5 Norte s/n Col. Sector Reforma C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+187,Eco-Reto,Primaria Ignacio Manuel Altamirano T.M,Oaxaca,San Pedro Mixtepec Dtto-22,Sector Reforma,"Calle Principal s/n, Col. Sector Reforma C.P71980",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+188,Eco-Reto,Secundaria Técnica 122 T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Barrio Bajo Bajos de Chila,1° de Mayo esq Flores Magon s/n Col. Barrio Bajo Bajos de Chila C.P 71996 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+189,Eco-Reto,Primaria Fed. Antonio Caso T.M.,Oaxaca,San Pedro Mixtepec,Barrio Las Flores Bajos de Chila,2 de Abril s/n Col. Barrio Las Flores Bajos de Chila C.P 71981 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+190,Eco-Reto,Secundaria  Técnica 174 T.M.,Oaxaca,San Pedro Mixtepec,Fracc. Rinconada,Blvrd. Del Pacifico s/n Fracc. Rinconada C.P 71983 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+191,Eco-Reto,J.N Colegio Leona Vicario T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Granjas,Oceano Pacifico s/n Col. Granjas C.P 71984  ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+192,Eco-Reto,Primaria Juan Rulfo T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Granjas del Pescador,Oceano Pacifico s/n Col. Granjas del Pescador C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+193,Eco-Reto,CBTIS 240 T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Aeropuerto,Raul Gonzalez esq. Nuevo Leon s/n Col. Aeropuerto C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+194,Eco-Reto,Primaria Octavio Paz T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Aeropuerto,5 de febrero 305 Col. Aeropuerto C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+195,Eco-Reto,COBAO 66 T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Lomas de San Pedro,Lomas de San Pedro s/n  Col. Lomas de San Pedro  C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+196,Eco-Reto,J.N Emiliano Zapata  T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Las Flores,Claveles s/n Col. Las Flores C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+197,Eco-Reto,Secundaria Técnica 210 T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Aeropuerto,Emiliano Zapata s/n Col. Aeropuerto C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+198,Eco-Reto,Primaria 21 de Marzo T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Reforma,1 norte y 12 oriente s/n Col. Reforma C. C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+199,Eco-Reto,Secundaria General Lucio Cabañas T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,San Miguel,Camino a la Union s/n Col. San Miguel C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+200,Eco-Reto,J.N Niños Héroes T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Benito Juarez,Av Cuauhtemoc s/n Col.  Benito Juarez C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+201,Eco-Reto,Primaria General Vicente Guerrero T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Arroyo seco,Mar Mediterraneo 400 Col. Arroyo seco C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+202,Eco-Reto,J.N Itzcoatl T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Libertad,Conocida s/n Col. Libertad C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+203,Eco-Reto,J.N Fernando Montes de Oca T.M.,Oaxaca,Santa María Colotepec,La Quebradora,Av Rio de la Bomba s/n Col. La Quebradora C.P 70938 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+204,Eco-Reto,Primaria  20 de noviembre T.M.,Oaxaca,Santa María Colotepec,Emiliano Zapata,20 de noviembre s/n Col. Emiliano Zapata C.P 70938,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+205,Eco-Reto,Preparatoria 2 de Octubre T.M.,Oaxaca,San Gabriel Mixtepec,Barrio Municipal,Andador Justo Sierra s/n Col. Barrio Municipal C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+206,Eco-Reto,Secundaria Técnica 136 San Gabriel T.M.,Oaxaca,San Gabriel Mixtepec,Bosque,Calzada Ayuntamiento 80 Col. Bosque C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+207,Eco-Reto,CECYTE Plantel 37 T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Bosque,Ayuntamiento 80 Col. Bosque C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+208,Eco-Reto,J.N Ignacio Manuel Altamirano T.M.,Oaxaca,San Gabriel Mixtepec,Hidalgo,Ayuntamiento s/n Col. Hidalgo C.P 71980  ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+209,Eco-Reto,J.N Lazaro Cardenas T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Barrio Las Flores,Melchor Ocampo s/n Col. Barrio Las Flores   C.P 71981 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+210,Eco-Reto,Secundaria Centro Educativo Manantial T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Centro,1 norte y 4 oriente s/n Col. Centro C.P ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+211,Eco-Reto,Primaria José Maria Morelos  T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Las Flores,Dalias s/n Col. Las Flores  C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+212,Eco-Reto,Primaria Melchor Ocampo T.M. ,Oaxaca,San Pedro Mixtepec Dtto-22,El Puente San José,Carretera a Oaaxaca km 8 Col. El Puente San José C.P 71990 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+213,Eco-Reto,Primaria Benito Juárez T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Los Limones San Pedro,Carretera a Oaaxaca km 8 Col. Los Limones San Pedro  C.P 71990 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+214,Eco-Reto,Primaria Leyes de Reforma T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Sector Reforma,Mariano Matamoros s/n Col. Sector Reforma C.P 71990,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+215,Eco-Reto,Preparatoria COBAO 53 San Pedro T.M,Oaxaca,San Pedro Mixtepec Dtto-22,Sector Reforma,Av Constitucion s/n Col. Sector Reforma C.P 71990,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+216,Eco-Reto,J.N. Josefa Ortiz de Dominguez T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,La Barra de Colotepec,Av Principal s/n Col. La Barra de Colotepec C.P 70934,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+217,Eco-Reto,Primaria Tierra y Libertad T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Zicatela,Av Brisas s/n Col. Zicatela C.P 70934,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+218,Eco-Reto,Preparatoria COBAO Plantel 36 T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Centro ,Av Independencia s/n Col. Centro C.P  70934,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+219,Eco-Reto,Primaria Miguel Hidalgo T.M.,Oaxaca,San Pedro Mixtepec Dtto-22,Centro,Plaza Principal s/n Col. Centro C.P 71990,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+220,Eco-Reto,CECYTE Plantel 31 ,Oaxaca,Santa María Colotepec,Santa Elena,Camino a la playa s/n Col. Santa Elena C.P 70996,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+221,Eco-Reto,Primaria Lázaro Cárdenas T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,La Cruz,Av Nicolas Bravo s/n Col. La Cruz C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+222,Eco-Reto,J.N Bertha Domínguez Martínez T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,La Cruz,Guadalupe Victoria s/n Col. La Cruz C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+223,Eco-Reto,Primaria Progreso T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,Balbuena,Morelos 62 Col. Balbuena C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+224,Eco-Reto,Secundaria 23 de marzo T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,La Soledad,Av. 20 de noviembre s/n Col. La Soledad C.P 71830 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+225,Eco-Reto,COBAO Plantel 25 Rio Grande T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,Valle verde,Carretera Costera s/n Col. Valle verde C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+226,Eco-Reto,Primaria Narciso Mendoza T.M.,Oaxaca,Santa María Colotepec,La Barra de Colotepec,Principal s/n Col. L Barra Colotepec C.P 70934,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+227,Eco-Reto,Secundaria Tec. 235 T.M.,Oaxaca,Santa María Colotepec,La Barra de Colotepec,Parota 103 Col. La Barra de Colotepec C.P 70934,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+228,Eco-Reto,Primaria Guadalupe Victoria T.M.,Oaxaca,San Pedro Mixtepec,El Macuil,Carretera a Oaxaca s/n Col. El Macuil C.P 71980 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+229,Eco-Reto,Sec. Tec. 241 T.M.,Oaxaca,San Pedro Mixtepec,San Andres Copala ,Principal s/n Col. San Andres Copala C.P 71990 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+230,Eco-Reto,J.N. Pablo Neruda T.M,Oaxaca,San Pedro Mixtepec,San Andres Copala,Principal s/n Col. San Andres Copala C.P 71990 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+231,Eco-Reto,Primaria Revolución T.M.,Oaxaca,San Pedro Mixtepec,San Andres Copala,Principal s/n Col. San Andres Copala C.P 71990 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+232,Eco-Reto,Primaria y Secundaria Libertadores de America T.M.,Oaxaca,San Pedro Mixtepec,Sector Almendras,Tamarindos 806  Col. Sector Almendras C.P 71985,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+233,Eco-Reto,Primaria Rosario Castellanos T.M.,Oaxaca,Santa María Colotepec,Rio Valdeflores,Principal s/n  Col. Rio Valdeflores C.P 70934 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+234,Eco-Reto,Telesecundaria 1635Z T.M.,Oaxaca,San Pedro Mixtepec,Aguaje del Zapote,1 de mayo s/n Col. Aguaje del Zapote C.P 71996,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+235,Eco-Reto,Telesecundaria 73 T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,Hidalgo,Independencia s/n Col. Hidalgo C.P 71831,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+236,Eco-Reto,J.N. Frida Kahlo T.M.,Oaxaca,Santa María Colotepec, Emiliano Zapata,Av Plan de Ayala s/n Col.Emiliano Zapata C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+237,Eco-Reto,J.N. Andrés Henestrosa T.M.,Oaxaca,San Pedro Mixtepec,Ébano,2da norte s/n Col. Ebano C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+238,Eco-Reto,J.N. Benito Juarez T.M.,Oaxaca,San Pedro Mixtepec,Jardines,Almendros y Cerezos s/n Col. Jardines C.P 71980,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+239,Eco-Reto,Primaria Gral. Lázaro Cárdenas del Rio T.M.,Oaxaca,San Pedro Mixtepec,Centro,Carretera Costera s/n Col. Centro C.P 71981,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+240,Eco-Reto,Primaria José María Morelos T.M.,Oaxaca,Santa María Colotepec,EL Bajo,Principal s/n Col. EL Bajo C.P 70934,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+241,Eco-Reto,Primaria Emiliano Zapata T.M.,Oaxaca,San Pedro Mixtepec,Centro El Huarumbo,Miguel Hidalgo Col Centro El Huarumbo C.P71997,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+242,Eco-Reto,Primaria Formal Emiliano Zapata T.M.,Oaxaca,San Gabriel Mixtepec,Santa Maria Mixtepec,Francisco Villa Col. Santa Maria Mixtepec C.P 71970,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+243,Eco-Reto,J.N. Niños Héroes T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,San Jose Manialtepec,Benito Juarez Col. San Jose Manialtepec C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+244,Eco-Reto,Primaria Gral. Ignacio Zaragoza T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,El Cacalote,Carretera Costera Col. El Cacalote C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+245,Eco-Reto,Telesecundaria 78 T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,El Cacalote,Av 5 de mayo Col.  El Cacalote C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+246,Eco-Reto,Primaria Rural Niño Artillero T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,San Isidro Llano,Manuel Galindo Col. San Isidro Llano,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+247,Eco-Reto,Primaria Miguel Hidalgo T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,Hidalgo,Av Independencia Col. Hidalgo C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+248,Eco-Reto,Primaria Don Miguel Hidalgo y Costilla T.M,Oaxaca,Villa de Tututepec de Melchor Ocampo,Aguazarca,16 de septiembre Col. Aguazarca C.P 71836,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+249,Eco-Reto,Primaria Alfonso Toledo Brito T.M.,Oaxaca,Villa de Tututepec de Melchor Ocampo,Vicente Guerrero,Graciano Benitez Col. Vicente Guerrero C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+250,Eco-Reto,Primaria Prof. Lizandro Calderón T.M,Oaxaca,Villa de Tututepec de Melchor Ocampo,Las Flores,Av Oaxaca Col. Las Flores C.P 71830,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+251,Eco-Reto,Primaria Benito Juarez T.V,Oaxaca,Villa de Tututepec de Melchor Ocampo,Las Flores,Av Oaxaca Col. Las Flores C.P 71830 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+252,Eco-Reto,Primaria Hermanos Flores Magon T.M,Oaxaca,Santos Reyes Nopala,Cañada Los Matus,Carretera a San Gabriel s/n Col. Cañada Los Matus C.P 71960 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+253,Eco-Reto,Preparatoria Ricardo Flores Magón T.M.,Oaxaca,Santos Reyes Nopala,Jacarandas,Kinduli s/n Col. Jacarandas C.P 71960,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+254,Eco-Reto,Primaria Benito Juarez T.M.,Oaxaca,Santos Reyes Nopala,Barrio de Jesus,Av Ignacio Zaragoza 28 Col. Barrio de Jesus C.P 71960,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+255,Eco-Reto,Secundaria General Jose Vasconcelos T.M,Oaxaca,Santos Reyes Nopala,La Toma,Av Hidalgo s/n Col. La Toma C.P 71960,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+256,Eco-Reto,Primaria Rural Emiliano Zapata T.M ,Oaxaca,Villa de Tututepec de Melchor Ocampo,El Venado,Domicilio Conocido s/n  Col. El Venado C.P 71830 ,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+257,Eco-Reto,Secundaria Tecnica 39 T.M.,Oaxaca,Santos Reyes Nopala,Barrio de San Antonio,Ignacio Zaragoza s/n  Col. Barrio de San Antonio C.P 71960,,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+258,Eco-Reto,Escuela Secundaria General No. 229 Frida Khalo T.M.,Oaxaca,Santa María Colotepec, El Tomatal,"Carretera Costera km 159, El Tomatal, C.p. 70934",,,"PET, PEAD, PEBD, BOPP, ALUMINIO, HOJALATA"
+259,Otros puntos de acopio,Reciclaje Patricia,Oaxaca,Ánimas Trujano,Centro,"Carretera a Puerto Escondido S/N, Col. Centro
+Animas Trujano, Oax.",17.030333,-96.712222,"PET, PEAD, PP, Metales no ferrosos, Hojalata, Papel, Cartón, Archivo Muerto, Botellas de vidrio"
+260,Otros puntos de acopio,Se compran metales,Oaxaca,Asunsión Nochixtlán,La Joya,"Pino S / N, La Joya
+Asunción Nochixtlán, Oax.",17.453184,-97.226216,"Metales no ferrosos, Hojalata"
+261,Otros puntos de acopio,Punto Verde,Oaxaca,Heroica Ciudad de Huajuapan de León,Tepeyac,"C. 2 de Abril LB, Tepeyac, CP. 69006
+Huajuapam de León, Oax.",17.813894,-97.787766,Pet
+262,Otros puntos de acopio,Metales Bernal,Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,Tonatati,"Libramiento juchitan la ventosa Tonatati, CP. 70000
+Juchitán de Zaragoza, Oax.",16.45724652349711,-95.01432795584583,"Metales no ferrosos, Hojalata"
+263,Otros puntos de acopio,Clean Plastic S.A. de C.V.,Oaxaca,Oaxaca de Juárez,Barrio de Jalatlaco,"Curtidurías 106, Barrio de Jalatlaco CP. 68080
+Oaxaca de Juárez, Oax",17.065776,-96.716276,"Papel, Cartón, Archivo (En donación)"
+264,Otros puntos de acopio,Recicladora de Oaxaca,Oaxaca,Oaxaca de Juárez,San Sebastian Etla,"Carretera Internacional Km. 125, San Sebastián Etla, CP. 68258
+Oaxaca de Juárez, Oax.",17.173114936588558,-96.79105646897136,"Pet, Pead, Cartón y Papel"
+265,Otros puntos de acopio,Se compra fierro,Oaxaca,Oaxaca de Juárez,Universidad,"Reforma Agraria 225A, Universidad, Agencia de Policia de Cinco Señores, CP. 68120
+Oaxaca de Juárez, Oax.",17.051522,-96.706435,"Metales no ferrosos, hojalata"
+266,Otros puntos de acopio,Reciclados Montoya,Oaxaca,Oaxaca de Juárez,La Joya,"Av. Montoya 319, La Joya, CP 68140
+Oaxaca de Juárez, Oax.",17.067011,-96.752758,"PET, PEAD, Metales no ferrosos, Hojalata, Papel, Cartón y Archivo Muerto"
+267,Otros puntos de acopio,Reciclables el Chuy,Oaxaca,Oaxaca de Juárez,Oaxaca de Juarez,"Camino viejo a San Jacinto esquina Av. Libertad S/N CP.  71220
+Oaxaca de Juárez, Oax.",17.099797242443955,-96.77093996477223,"PET, PEAD, Metales no ferrosos, Hojalata, Papel, Cartón y Archivo Muerto"
+268,Otros puntos de acopio,Reciclapapel S.A. de C.V. (Comercial),Oaxaca,Oaxaca de Juárez,Paraje el humedal,"Calle Sabinos 100, Col Paraje el humedal, Trinidad de Viguera CP. 68050
+Oaxaca de Juárez, Oax.",17.11770264147676,-96.7711910512463,"PET, PEAD, PP, Metales no ferrosos, Hojalata, Papel, Cartón, Archivo Muerto, Botellas de vidrio"
+269,Otros puntos de acopio,David Asunción,Oaxaca,Oaxaca de Juárez,San Isidro,"Calle San Ángel 217 CP. 68276
+San Isidro, Oax.",17.130098745165,-96.7624397406365,"PET, Metales ferrosos, Hojalata"
+270,Otros puntos de acopio,Ambioental Reciclados y Soluciones Ambientales S.A. de C.V.,Oaxaca,Oaxaca de Juárez,San Isidro,"Recepción en Carretera Internacional 4006-B, Col. San Isidro,Pueblo Nuevo.
+Oaxaca, Oax.",,,PET
+271,Otros puntos de acopio,Grupo GASA,Oaxaca,Oaxaca de Juárez,Trinidad Viguera,"Libramiento Norte No. 116, Trinidad Viguera
+Oaxaca, Oax.",,,"PET, PEAD, Botellas de vidrio color cristal"
+272,Otros puntos de acopio,Ambioental Reciclados y Soluciones Ambientales S.A. de C.V. ,Oaxaca,Salina Cruz,Jardines,"Calzada Refinería S/N  Col. Jardines
+Salina Cruz, Oax. ",,,"PET, PEAD, Metales no ferrosos, Hojalata"
+273,Otros puntos de acopio,Reciclados del Itzmo,Oaxaca,Salina Cruz,Deportiva Norte,"Dias Ordaz 19, Colonia Deportiva Norte",,,"PET, PEAD, PP, Metales no ferrosos, Hojalata, Papel, Cartón, Archivo Muerto"
+274,Otros puntos de acopio,Compra y venta de fierro viejo,Oaxaca,San Agustín de las Juntas,San Agustin de las Juntas,"Av. Símbolos Patrios 407, San Agustín de las Juntas, CP. 71238
+San Agustín de las Juntas, Oax.",17.012195882048143,-96.71256874354582,"PET, PEAD, PP, Metales no ferrosos, Hojalata"
+275,Otros puntos de acopio,Eco Valle,Oaxaca,San Andrés Huayápam,Zoogocho,"Carretera Antigua a San Andrés Huayapam 114, Zoogocho
+San Andrés Huayápam, Oax.",17.092175,-96.683053,"PET, PEAD, PP, Metales no ferrosos, Hojalata, Papel, Cartón, Archivo Muerto"
+276,Otros puntos de acopio,David Perez Marcial,Oaxaca,San Bartolo Coyotepec,12 de Julio,"Calle Cascada No.2 Colonia 12 de Julio
+San Bartolo Coyotepec, Oax.",,,PET
+277,Otros puntos de acopio,Grupo Reciclador de Papel y Cartón LEAMRADE S.A DE C.V,Oaxaca,San Bartolo Coyotepec,El Rosario,"Oaxaca - Puerto Escondido 300, El Rosario, CP. 71256
+San Bartolo Coyotepec, Oax.",16.951425273235344,-96.70745989644672,"Papel, Cartón y Archivo Muerto"
+278,Otros puntos de acopio,Comercializadora de Chatarra,Oaxaca,San Bartolo Coyotepec,San Bartolo Coyotepec,"Av. Mojonera 4, San Bartolo Coyotepec, CP. 71256
+San Bartolo Coyotepec, Oax.",16.944644754306548,-96.70667047715274,"Metales no ferrosos, Hojalata"
+279,Otros puntos de acopio,Bio Pappel Printing S.A de C.V,Oaxaca,San Juan Bautista Tuxtepec,San Juan Bautista Tuxtepec,"Ejido Benito Juárez s/n, CP. 68300
+San Juan Bautista Tuxtepec, Oax. ",,,"Papel, Cartón y Archivo Muerto"
+280,Otros puntos de acopio,ECO Company Plastics,Oaxaca,San Juan Bautista Tuxtepec,El Silverio,"Km 3.5 Carretera Tuxtepec - Loma Bonita, Col. El Silverio
+San Juan Bautista Tuxtepec, Oax",18.059691,96.179039,PET
+281,Otros puntos de acopio,Elizabeth Ríos Martínez,Oaxaca,Villa de Tututepec de Melchor Ocampo,Río Grande o Piedra Parada,"5 de Mayo 965, Soledad, CP. 71835 Río Grande O Piedra Parada
+Oaxaca.","16.01436332729187, ",-97.43275677567723,"PET, Papel, Cartón y Archivo Muerto"
+282,Otros puntos de acopio,Jungla Plástica A.C,Oaxaca,San Pedro Mixtepec,Centro," Calle 6a. norte número 205, Centro Puerto Escondido,
+San Pedro Mixtepec, Oax.",15.867266685642221,-97.0712435075845,"PET, PEAD, Tapas, Playo y PEBD (Inyección) todo en donación"
+283,Otros puntos de acopio,Centro de Acopio Yo Reciclo,Oaxaca,San Pedro Mixtepec,Puerto Escondido,"Benito Juárez, Puerto Escondido CP. 71985
+San Pedro Mixtepec, Oax.",15.874375108907156,-97.07202882951742,"PET, PEAD, Papel, Cartón y Archivo Muerto"
+284,Otros puntos de acopio,Ambioental Reciclados y Soluciones Ambientales S.A. de C.V.,Oaxaca,San Pedro Pochutla, 1era Seccion,"Carretera Federal 200, 1era Seccion
+San Pedro Pochutla, Oax.",,,"PET, Aluminio "
+285,Otros puntos de acopio,Desperdicios Industriales,Oaxaca,San Pedro Pochutla,El panteón,"Calle Morelos S/N Barrio El Panteon
+San Pedro Pochutla, Oax",15.74784256991782,-96.46986456920649,"Metales no ferrosos, Hojalata"
+286,Otros puntos de acopio,Compra y venta de fierro viejo,Oaxaca,Santa Lucía del Camino,Fernando Gomez Sandoval,"Av. Ferrocarril 121, Fernando Gomez Sandoval, CP. 68100
+Santa Lucía del Camino, Oax.",17.058061012265377,-96.70942714678038,"PET, Metales no ferrosos, Hojalata, Papel, Cartón, Archivo Muerto"
+287,Otros puntos de acopio,El imán,Oaxaca,Santa Lucía del Camino,Santa Maria Ixcotel,"Carretera Oaxaca, Puerto Angel Km.13
+Oaxaca. Av. 16 de septiembre No. 47 casi esquina Camino Nacional
+Sta. Ma. Ixcotel
+Santa Lucia del Camino, Oax.",17.064251,-96.702238,"Metales no ferrosos, Hojalata, Papel, Cartón, Archivo Muerto"
+288,Otros puntos de acopio,Grupo Min,Oaxaca,Santa María Atzompa,Odisea,"G. Eymard Marcial Martínez Zeus 101 Col Odisea
+Sta María Atzompa, Oax",17.09865913842281,-96.76658870598646,"Metales no ferrosos, computadoras, electrónicos (donación)"
+289,Otros puntos de acopio,Ambioental Reciclados y Soluciones Ambientales S.A. de C.V. ,Oaxaca,Santa María Coyotepec,Centro,"Carretera 175 Km 9, Centro, CP. 71254
+Santa María Coyotepec, Oax.",16.97587358664592,-96.70749003191179,"PET, PEAD, Metales no ferrosos, Cartón Laminado, Papel, Cartón y Archivo muerto"
+290,Otros puntos de acopio,Ecocel,Oaxaca,Santa María Coyotepec,El rancho,"Km. 9.5 Carret. Oaxaca-Pto. Ángel. Paraje el Rancho, (A un lado de concretox)
+Santa María Coyotepec, Oax.
+",,,PET y PEAD
+291,Otros puntos de acopio,Grupo CIMA de Oaxaca S.A de C.V,Oaxaca,Santa María Coyotepec,5 de Mayo,"5 de Mayo 1, CP. 71954
+Santa María Coyotepec, Oax.",16.96684878680762,-96.71050094040557,PEAD y PEBD en inyección
+292,Otros puntos de acopio,Ambioental Reciclados y Soluciones Ambientales S.A. de C.V.,Oaxaca,Santa María Huatulco,Bahias de Huatulco,"Artesanos Manzana 005 Lote 019 Sector V. la Crucecita, Bahias de Huatulco
+Santa María Huatulco, Oax.",,,PET
+293,Otros puntos de acopio,Ambioental Reciclados y Soluciones Ambientales S.A. de C.V.,Oaxaca,Santa María Huatulco,Bahias de Huatulco,"Calle El Faisan, Col. El Faisan, Bahias de Huatulco
+Santa María Huatulco, Oax.",,,PET
+294,Otros puntos de acopio,El Planeta,Oaxaca,Santa María Huatulco,Bahias de Huatulco,"Calle Ebanista 119, Sector V zona de Talleres, Bahias de Huatulco
+Santa María Huatulco, Oax.",,,"PET, PEAD, Metales no ferrosos, Hojalata, Papel, Cartón y Archivo Muerto"
+295,Otros puntos de acopio,El Chorris,Oaxaca,Santiago Pinotepa Nacional,km 2,"Carretera Pinotepa-Puerto Escondido km 2
+Santiago Pinotepa Nacional, Oax.",16.328917905030583,-98.02629268545502,"PET, PEAD, PEBD en inyección, Metales no ferrosos, Hojalata"
+296,Otros puntos de acopio,Juan Sosa,Oaxaca,Tlacolula de Matamoros,Totolapam,"San José de Gracia, San Pedro Totolapan
+Tlacolula, Oax.",,,Metales no ferrosos y Hojalata
+297,Otros puntos de acopio,Recicladora Santa Maria,Oaxaca,Tlacolula de Matamoros,San Juan Teitipac ,"Entre calle Galeana y Salinas, San Juan Teitipac
+Tlacolula de Matamoros, Oax.",16.927777995650764,-96.60158476204882,"PET, PEAD, Metales no ferrosos, Hojalata, Papel y Cartón"
+298,Otros puntos de acopio,Comercializadora de Chatarra,Oaxaca,Villa de Zaachila,Villa de Zaachila,"Principal s/n, 24 de Julio, CP. 71250
+Villa de Zaachila, Oax.",16.926811712556663,-96.6925755373988,"Metales no ferrosos, Hojalata, Cartón"
+299,Programa Institucional ,Depto. Reg. Abastecimiento de Hidrocarburos C.F.E.,Oaxaca,Salina Cruz,Barrio Espinal,"Tuxpan 23, Colonia Barrio Espinal, Salina Cruz, C.P. 70760, Oaxaca",,,PET
+300,Programa Institucional ,Centro de Salud San Cristóbal Jalapa del Marqués,Oaxaca,Santa María Jalapa del Marqués,San Cristobal,"Av. Principal s/n, San Cristobal, Sta. María Jalapa del Márques, C.P. 70710, Oaxaca",,,PET
+301,Programa Institucional ,LUZAMI SA DE CV HOTEL MISION OAXACA,Oaxaca,Oaxaca de Juárez,San Felipe del Agua,"Avenida Jalisco 15 Col. San Felipe del Agua Oaxaca de Juárez  C.P. 68020, Oaxaca",,,PET
+302,Programa Institucional ,PARROQUIA DE LA INMACULADA CONCEPCIÓN ,Oaxaca,Santa María Huatulco,Centro,Avenida Morelos sin número esquina Josefa Ortiz de Domínguez sin número Col. Centro. Santa María Huautulco  ,,,"PET, PEAD"
+303,Programa Institucional ,KINTI SOLUCIONES SOSTENIBLES A.C.,Oaxaca,Santa María Tonameca,San Agustinillo ,"carretera 175 región marítima sin número Col. San Agustinillo, Santa María Tonameca  ",,,PET
+304,Programa Institucional ,INSTITUTO DE LA JUVENTUD HUATULCO,Oaxaca,Santa María Huatulco,,Unidad deportiva Galeana esquina gradera sin número. Col.Centro Santa María Huatulco CP 70980 Santa María Huatulco,,,PET
+305,Programa Institucional ,Bodega Aurrera OAXACA ,Oaxaca,Oaxaca de Juárez,del Maestro,"Santa Rosa, Carr. Internacional 1708, Col del Maestro, 68010 Oaxaca de Juárez, México",,,cápsulas Dolce Gusto 
+306,Programa Institucional ,OMNILIFE DE MÉXICO SA DE CV/ Huajuapan,Oaxaca,Heroica Ciudad de Huajuapan de León,Tepeyac,calle 2 de abril no. 66 Col. Tepeyac Huajuapan de León CP6900 Oaxaca,,,PET
+307,Programa Institucional ,OMNILIFE DE MÉXICO SA DE CV/ Oaxaca,Oaxaca,Oaxaca de Juárez,Centr,Av. Independencia no. 1501-c Col. Centro Oaxaca de Juárez CP68000 Oaxaca ,,,PET
+308,Programa Institucional ,OMNILIFE DE MÉXICO SA DE CV/ Tuxtepec,Oaxaca,San Juan Bautista Tuxtepec,Fraccionamineto Costa Verde ,Calle 4 esquina Avenida 5 no. 16 Col. Fraccionamiento Costa Verde,,,PET
+309,Programa Institucional ,OMNILIFE DE MÉXICO SA DE CV/ Salina Cruz ,Oaxaca,Salina Cruz,Barrio Espinal ,Av. Manuel Ávila Camacho no. 713 Col. Barrio Espinal Salina Cruz CP 70650 Oaxaca ,,,PET
+310,Mi tiendita sin residuos ,Abts Merlin,Oaxaca,Santa María Colotepec,Marinero,Calle del Morrol Col. Marinero CP 71980 Santa María Colotepec en medio de playa zicatela,15.85565405,-97.05702652,PET
+311,Mi tiendita sin residuos ,Videojuegos mi tiendita ,Oaxaca,Santa María Colotepec,Marinero,Carretera Costera Col. Marinero CP 709634  Santa María Colotepec antes de entrar a playa zicatela,15.86047255,-97.05886066,PET
+312,Mi tiendita sin residuos ,abarrotes Jacqueline,Oaxaca,Santa María Colotepec,Zicatela,del morro entrada playa zicatela 275 Col. Zicatela,15.8590257,-97.05912526,PET
+313,Mi tiendita sin residuos ,Super S5,Oaxaca,Santa María Colotepec,Centro,Avenida Pérez Gasca Puerto Escondido Centro entrada adoquin junto al semaforo,15.86188424,-97.06082939,PET
+314,Mi tiendita sin residuos ,Abarrotes Griselda ,Oaxaca,Santa María Colotepec,Barra de Navidad,Calle Colotepec Col. Barra de Navidad CP71980 Santa María Colotepecen el arco de la entrada de colotepec,15.82523566,-97.01956093,PET
+315,Mi tiendita sin residuos ,Minisuper El Paso ,Oaxaca,Santa María Colotepec,Santa María Colotepec,Carretera Costera Col. El Palmar Tomatal CP 70934 Santa María Colotepec  frente a entrada colonia san juanito,15.78931124,-96.91820025,PET
+316,Mi tiendita sin residuos ,Cumar algo más que ahorrar ,Oaxaca,Santa María Colotepec,Santa María Colotepec,Avenida Independencia Col. Santa María Colotepec CP 7980 Santa María Colotepec frente a entrada colonia san juanito,15.89760625,-96.94147775,PET
+317,Mi tiendita sin residuos ,Mini superaragón,Oaxaca,Santa María Colotepec,Santa Elena Tonameca,Conocido sin número Col. Santa Elena Tonameca CP 70946 junto a puente peatonal,15.75611345,-96.82102312,PET
+318,Mi tiendita sin residuos ,Abts el Crucero ,Oaxaca,Santa María Colotepec,Sector Juárez,Carrereta Costera Col. Sector Juárez CP 71980 Santa María Colotepec Cerca de chedraui,15.86184516,-97.06748664,PET
+319,Mi tiendita sin residuos ,Misc Alfec ,Oaxaca,San Pedro Mixtepec,Libertad,Del Carmen Col. Libertad  CP 71980 San Pedro Mixtepec -Distrito 22 a 2 cuadras despues del jardin de niños de la colonia,15.87086925,-97.05760759,PET
+320,Mi tiendita sin residuos ,Abats Eva Luz,Oaxaca,San Gabriel Mixtepec,Barrio de la Cruz ,20 de Noviembre Col. Barrio de la Cruz CP 71970 San Gabriel Mixtepec a 2 cuadras de la carretera que va a oaxaca,16.09553,-97.082598333333,PET
+321,Mi tiendita sin residuos ,7+1 mini super,Oaxaca,Santa María Colotepec,Brisas de Zicatela,Carr. Costera Local #3. Col. Brisas de Zicatela CP 70934,15.84204465,-97.04360962,PET
+322,Mi tiendita sin residuos ,Vero ,Oaxaca,San Pedro Mixtepec,Santa Cruz,Calle Oaxaca Col Santa Cruz CP 71990 San Pedro Mixtepec dt 22 antes de glorieta principal despues de abts Nay,15.982732,-97.07793653,PET
+323,Mi tiendita sin residuos ,Farmacia del centro,Oaxaca,San Pedro Mixtepec,Centro,Vicente Guerrero Col. Centro cp 71990 San Pedro Mixtepec dto 22 frente agencia municipal,15.98229365,-97.08391652,PET
+324,Mi tiendita sin residuos ,Abarrotes del sur ,Oaxaca,Santos Reyes Nopala,Barrio de Jesús,Hidalgo 16 Col. Barrio de Jesús CP 7196 Santo Reyes Nopala  a un ocstado de la agencia,16.104961666667,-97.144566666667,PET
+325,Mi tiendita sin residuos ,Abts San Juan de los Lagos ,Oaxaca,San Pedro Mixtepec,Bajos de Chila,Calle aV 16 Sept Sn Col. Bajos de Chila junto abts juanita entrada de la poblacion,15.916603333333,-97.121111666667,PET
+326,Mi tiendita sin residuos ,abarrotes Ari,Oaxaca,Santa María Tonameca,San Francisco Cozoa,Avenida Reforma Col. San Francisco Cozoa CP 70944  entrada cozoaltepec parada de taxis,15.81454333,-96.72558833,PET
+327,Mi tiendita sin residuos ,abarrotes y vinos rockaway ,Oaxaca,Santa María Colotepec,Brisas de Zicatela,AVENIDA AV ALEJANDRO CARDENAS Col. Brisas de Zicatela CP 70934 junto a six de playa punta zicatela,15.8337609,-97.04476969,PET
+328,Mi tiendita sin residuos ,Abarrotes los mangales,Oaxaca,San Pedro Mixtepec,Benito Juárez ,Avenida Ignacio Zaragoza Col. Benito Juárez CP 71980 San Pedro Mixtepec junto a tienda superprecio,15.87638117,-97.07121432,PET
+329,Mi tiendita sin residuos ,Abarrotes Rubi,Oaxaca,San Pedro Mixtepec,Aeropuerto ,Carretera a Oaxaca 101 Col. N Aeropuerto CP 71985 -San Pedro Mixtepec,15.88137723,-97.07939662,PET
+330,Mi tiendita sin residuos ,Abts y papeleria Yami-Gael,Oaxaca,San Pedro Mixtepec,Benito Juárez,Avenida Cuauhtémoc Col. Benito Juárez CP71980 San Pedro Mixtepec  cerca de la terminal de segunda a un ocstado de la carretera,15.87448923,-97.07468761,PET
+331,Mi tiendita sin residuos ,abarrotes Luisito,Oaxaca,San Pedro Mixtepec,Puerto Escondido ,calle 8 norte  Col. Puerto Escondido centro CP 71980 frente a mercado municipal de puerto escondido,15.869526666667,-97.073723333333,PET
+332,Mi tiendita sin residuos ,Abarrotes dona santa,Oaxaca,San Pedro Mixtepec,Aeropuerto ,Carretera a Oaxaca Col. Aeropuerto CP 71980 San Pero Mixtepec frente a tienda super precios antes de la gasolinera,15.88440411,-97.07918108,PET
+333,Mi tiendita sin residuos ,Abarrotes Yadi ,Oaxaca,San Pedro Mixtepec,Sector Reforma,calle 8A norte Col. Sector Reforma D CP 71980 a un costado de muebleria Junior,15.870735,-97.069288333333,PET
+334,Mi tiendita sin residuos ,Depocito alegria,Oaxaca,San Pedro Mixtepec,Lázaro Cárdenas,carretera costera junto a hotel DC Lázaro Cárdenas CP 70839 despues del mercado zicatela,15.84971325,-97.04989135,PET
+335,Mi tiendita sin residuos ,Abts Anita,Oaxaca,San Pedro Mixtepec,Marinero,Camino a Malucano Col. Marinero CP 71980 delante de la agencia,15.86182452,-97.05454767,PET
+336,Mi tiendita sin residuos ,Autoservicio el fortin ,Oaxaca,San Pedro Mixtepec,Sector Reforma,calle poniente sin número Col. N928 Sector Reforma CP71984 a un costado de la carretera costera cerca de telmex,15.86209885,-97.06911046,PET
+337,Mi tiendita sin residuos ,Abts. Martínez,Oaxaca,San Pedro Mixtepec,San Andrés Copala ,principal Col. San Andrés Copala CP 71990 cerca de abts copala y cerca d ela agencia,15.99986,-97.14423,PET
+338,Mi tiendita sin residuos ,Abarrotes Junior´s,Oaxaca,San Pedro Mixtepec,Centro ,Cale dos norte # 203 Col. Centro CP 71980 junto a gasolinera,15.86369185,-97.07169941,PET
+339,Mi tiendita sin residuos ,La tiendita de Raciel,Oaxaca,San Pedro Mixtepec,Fraccionamiento las Palmas ,Cocoteros 138  Col. Fraccionamiento las Palmas CP 71980 ,15.87004448,-97.08430409,PET
+340,Mi tiendita sin residuos ,Misc la pasadita,Oaxaca,San Pedro Mixtepec,San Miguel,Ignacio Zaragoza Col. San Miguel CP 71980 junto a campo de futbol,15.88487363,-97.06591487,PET
+341,Mi tiendita sin residuos ,Abarrotes Diana,Oaxaca,San Pedro Mixtepec,Bajos de Chila,calle morelos Col. Bajos de Chila CP 70839 frente a preparatoria,15.91931969,-97.12433726,PET
+342,Mi tiendita sin residuos ,Abarrotes Puerto Angelito,Oaxaca,San Pedro Mixtepec,Sector Hidalgo ,4A PONIENTE Col. Sector Hidalgo CP 71980 a un costado del parque central y del  la iglesia del pueblo,15.862438333333,-97.072663333333,PET
+343,Mi tiendita sin residuos ,San Juditas ,Oaxaca,San Pedro Mixtepec,Agua Marina ,calle agua marina  Col. Agua Marina CP 71980 a un costado de deposito Isamar,15.87065377,-97.07777892,PET
+344,Mi tiendita sin residuos ,Vinateria el Pelicano ,Oaxaca,San Pedro Mixtepec,Sector Libertad ,Avenida Alfonso Pérez Gasaga   519 Col. Sector Libertad CP 71980,15.860591666667,-97.065291666667,PET
+345,Mi tiendita sin residuos ,Refresquería Esther ,Oaxaca,Salina Cruz,Mazatan,"Carretera Costera sin número Col. Mazatan CP 7060 a la salida morro mazatán , frente al sitio de psajeros ",-95.383029,16.09990805,PET
+346,Mi tiendita sin residuos ,Lupita,Oaxaca,Salina Cruz,Morro de Mazatan,"Calle Carretera Costera sin número  Col. Morro Mazatán CP 70760 , a la salida Morro Mazatán junto al sitio de pasajeros",-95.38249554,16.09968784,PET
+347,Mi tiendita sin residuos ,Miscelanea Garcia,Oaxaca,Santa María Colotepec,Lomas del Puerto ,Calle en las Cruces Col. Lomas el Puerto CP 70934 junto a cancha,15.86508055,-97.05680609,PET
+348,Mi tiendita sin residuos ,Abarrotes Franco,Oaxaca,San Pedro Mixtepec,Puente San José ,carretera a Oaxaca  Puente San José Col. Puente San José CP 71980 junto al puente llamado san jose esta en una curva,15.91963581,-97.0824641,PET
+349,Mi tiendita sin residuos ,Velmar,Oaxaca,Santa María Huatulco,otra,Calle blvd Santa Cruz Col. Otra CO 70989 Santa María Huatulco ,15.7540568,-96.13095582,PET
+350,Mi tiendita sin residuos ,Esperanza,Oaxaca,Santa María Huatulco,Santa Cruz Sector A ,Calle Mitla Col. Santa Cruz Sector A CP 70989 Santa María Huatulco ,15.75491947,-96.13213945,PET
+351,Mi tiendita sin residuos ,Super Solaris ,Oaxaca,Santa María Huatulco,Tangoluda,Blvd. Benito Juárez Col. Tangoluda CP 70989 Bahía de Tangoluda ,15.77481063,-96.09630167,PET
+352,Mi tiendita sin residuos ,Restaurante Bar el Huayacan ,Oaxaca,Santa María Huatulco,Sector ,Monte Albán Playa Santa Cruz sin número Col. Sector CP 70989 Santa María Huatulco,15.75310929,-96.13209261,PET
+353,Mi tiendita sin residuos ,3 hermanos,Oaxaca,Santa María Huatulco,Copalita ,Calle La Agencia Col. Copalita CP 70989 San Miguel del Puerto frente al parque de la agencia municipal cerca rio copalita,15.81850603,-96.0629899,PET
+354,Mi tiendita sin residuos ,Miscelánea Flor,Oaxaca,Santa María Huatulco,Laguna Chacahua ,Laguna Chacahua manzana 5 lote 13  MX 5 sector U Col. Laguna Chacahua Mxa 5 Sector U CP 70989,15.77868607,-96.14019776,PET
+355,Mi tiendita sin residuos ,Mini Super Palmar,Oaxaca,Santa María Tonameca,Centro ,Calle Centro 1 Col. Calle Centro CP 70949  cerca capilla san Isidro junto modelorama San Isidro ,15.72074302,-96.60986017,PET
+356,Mi tiendita sin residuos ,Mini Abarrotes El Ranchito,Oaxaca,Santa María Tonameca,Macahuite , Carretara Pto Escondido Col  Macahuite CP 70946 Santa María Tonameca,15.73055937,-96.68464059,PET
+357,Mi tiendita sin residuos ,Miscelanea super Aragón ,Oaxaca,Santa María Huatulco,Macahuite ,Carrertera Federal a Pto Escodido Col Macahuite CP 70946 Santa María Huatulco ,15.73064105,-96.68459519,PET
+358,Mi tiendita sin residuos ,Abarrotes Xandan,Oaxaca,Santa María Huatulco,Bahía de conejo ,Calle bahía conejo manzana 1 lote 5  col. Calle Bahía Conejo CP 70987 junto a comerciales junto taller colorado ,15.77281374,-96.14194943,PET
+359,Mi tiendita sin residuos ,Miscelanea la chinita ,Oaxaca,Santa María Tonameca,Llano Grande Tonameca,"Llano Grande Crucero Tonameca Col. Llano Grande Tonameca CP 70900 Santa María Tonameca, junto al puente peatonal de tonameca carretera federal 200 ",15.7297906,-96.53841636,PET
+360,Mi tiendita sin residuos ,Abts Jimal ,Oaxaca,San Pedro Pochutla,San José Chacalapa,"La Principal Col. San José Chacalapa CP 70904 San Pedro Pochutla  cerca del parque central de Chacalapa , cerca del mercado de Chacalapa",15.829695,-96.464723333333,PET
+361,Mi tiendita sin residuos ,Abts Adir,Oaxaca,San Pedro Pochutla,,Avenida Lázaro Cárdenas junto a barrotes roga casi enfrente bancomer,15.748538333333,-96.467265,PET
+362,Mi tiendita sin residuos ,Abts Doña Eva,Oaxaca,Santa María Huatulco,,Laguna Tamiahua manzana 2 sector y junto al canal pluvial ,15.78016158,-96.13965317,PET
+363,Mi tiendita sin residuos ,Abts Cony,Oaxaca,San Pedro Pochutla,,"Calle Joverio CALLE   JOVERITO, ATRÁS DEL HOSPITAL MATERNO INFANTIL POCHUTLA",15.74089134,-96.46634015,PET
+364,Mi tiendita sin residuos ,Minisuper La Palapa ,Oaxaca,Santa María Huatulco,Sector ,Sector H Col Sector h3 CP7097 Santa María Huatulco,15.76657327,-96.14954208,PET
+365,Mi tiendita sin residuos ,Hernandezz,Oaxaca,Santa María Huatulco,Sector,Calle bugambilia Col. Sector CP 70987 ,15.76747132,-96.13902301,PET
+366,Mi tiendita sin residuos ,Abts Fuente de Vida,Oaxaca,Santa María Huatulco,,Bahía San Agustín MX 16 Lote,15.77446472,-96.13942087,PET
+367,Mi tiendita sin residuos ,Romza,Oaxaca,Santa María Huatulco,,"Avenida Benito Juárez SN  Camino a paso ancho, antes de la iglesia crisitiana paso ancho ",15.84260337,-96.31663604,PET
+368,Mi tiendita sin residuos ,Abarrotes Jeyco,Oaxaca,Santa María Huatulco,Tachal Blanco ,Calle Las Plamas Col. Tachal Blanco CP 70980 Santa María Huatulco cerca de abarrotes techal,15.82881563,-96.31234114,PET
+369,Mi tiendita sin residuos ,Miscelanea Yuli 2,Oaxaca,Santa María Huatulco,Centro ,Calle Av. Benito Juárez Col. Centro CP 70980 Santa María Huatulco antes de la cebtis de Santa María Huatulco,15.8277,-96.32107166,PET
+370,Mi tiendita sin residuos ,Abarrotes La esquina ,Oaxaca,Santa María Huatulco,Centro ,Benito Juárez 301 Col. Centro CP 70890 Santa María Huatulco  cerca del oxxo de Santa María cerca del neto Santa María ,15.83314408,-96.32074157,PET
+371,Mi tiendita sin residuos ,Miscelanea Manuela ,Oaxaca,Santa María Huatulco,Piedra de Moro ,Carretera San Miguel del Puerto Col. Piedra de Moro CP 709890 Santa María Huatulco  al lado de la cancha de basquet ball frente a la capilla de piedra de moros,15.79898969,-96.23071007,PET
+372,Mi tiendita sin residuos ,Mini Super José ,Oaxaca,San Pedro Pochutla,San José Chacalapa,Josefa Ortiz de Domínguez Col. San José Chacalapa CP 70900  cerca de la cancha de basquet ball frente a la capilla de piedra de moros,15.829943333333,-96.464823333333,PET
+373,Mi tiendita sin residuos ,Abarrotes EL chinito ,Oaxaca,San Pedro Pochutla,Lomas del Carmen,Calle Lázaro Cárdenas 1 Col. Lomas del Carmen CP 70900 San Pedro Pochutla cerca del oxxo loma cruz cerca de la gasolinera loma cruz,15.756141666667,-96.464583333333,PET
+374,Mi tiendita sin residuos ,Miscelánea Domy,Oaxaca,Santa María Tonameca,,Camino al Río San Isidro del Palmar ,15.7265552,-96.60614171,PET
+375,Mi tiendita sin residuos ,Comercial el Angel,Oaxaca,San Pedro Pochutla,Centro,Calle José Vasconcelos col. Centro CP 70902 Puerto Ángel San Pedro Pochuta,15.66586037,-96.49043083,PET
+376,Mi tiendita sin residuos ,Miscelanea Flory,Oaxaca,San Pedro Pochutla,El Panteón,Del Panteón 248  col. El Panteón CP 70902 Puerto Ángel San Pedro Pochutla  cerca de restaurant Cordelia,15.66468759,-96.49628073,PET
+377,Mi tiendita sin residuos ,Abarrotes Lety,Oaxaca,San Pedro Pochutla,Zipolite ,Principal Col. Zipolite CP 70902 San Pedro Pochutla antes de piña palmera,15.66460909,-96.51539683,PET
+378,Mi tiendita sin residuos ,Misc Pily,Oaxaca,Santa María Tonameca,San Agustinillo ,Avenida Principal Col San aGustinillo CP 70902 Santa María Tonameca junto agencia municipal de mazunte,15.66602692,-96.542483,PET
+379,Mi tiendita sin residuos ,Modulo ventanilla,Oaxaca,Santa María Tonameca,Ventanilla,Avenida Principal Col. Ventanilla CP 70902 Santa María Tonameca,15.66904,-96.57566166,PET
+380,Mi tiendita sin residuos ,Abarrotes frutas y verduras,Oaxaca,San Pedro Pochutla,Laguna Seca,Calle Laguna seca Col. Laguna seca CP 70900 San Pedro Pochutla entronque con colonia de los maestros,15.73741205,-96.46611452,PET
+381,Mi tiendita sin residuos ,Abarrotes Edgar,Oaxaca,San Pedro Pochutla,Emiliano Zapata,Calzada Alto de Juárez Col. Emiliano Zapata CP 70900 San Pedro Pochutla,15.73631111,-96.46813631,PET
+382,Mi tiendita sin residuos ,Sirenita,Oaxaca,San Pedro Pochutla,Sección cuarta,Calle Hidalgo Col. Sección cuarta CP 70900 San Pedro Pochutla calle progreso y calle trujano cerca de la cava ex discoteque,15.74458854,-96.46477268,PET
+383,Mi tiendita sin residuos ,Ultramarinos del Manantial,Oaxaca,Santa María Huatulco,Centro,"Av. Gardenias 402 Col Centro CENTRO, SANTA CRUZ HUATULCO",15.76373958,-96.13869131,PET
+384,Mi tiendita sin residuos ,Misc Las Flores,Oaxaca,San Pedro Pochutla,,Avenida Constitución  1 IV SECCION cp70900 SAN PEDRO POCHUTLA,15.7433482,-96.46563844,PET
+385,Mi tiendita sin residuos ,La Ceiba II,Oaxaca,Santa María Huatulco,," CALLE GARDENIA, ANTES DE LA YAHAMA HUATULCO",15.7669799,-96.13959384,PET
+386,Mi tiendita sin residuos ,Misc las joyas,Oaxaca,Santa María Huatulco,La Crucecita,Laguna grande 1 B manzana 30 . Laguna grande mza 23 lote 14lote 14 Col. La crucecita bahías CP 70900 Santa María Huatulco frente a la caseta de vigilancia u2,15.77597006,-96.1393304,PET
+387,Mi tiendita sin residuos ,Caseta San Judas ,Oaxaca,Santa María Huatulco,,"carretera federal Costera Huautulco Salina Cruz, entrada Principal a Copalita",15.82013208,-96.06307059,PET
+388,Mi tiendita sin residuos ,Los comerciales,Oaxaca,Santa María Huatulco,Sector,"Blv Bahías manzana 1 lote 2 Col Sector CP 70900 Santa María Huatulco junto a paquetería 3 guerras, junto a taller el colorado  ",15.77301984,-96.14209131,PET
+389,Mi tiendita sin residuos ,Mini super el gordo,Oaxaca,Santa María Huatulco,La Crucecita,Laguna Chacahua Mxa 11 Sector Col La Crucecita Bahías CP 70900 Santa María Huatulco ,15.78010939,-96.14068867,PET
+390,Mi tiendita sin residuos ,abarrotes Juquilita,Oaxaca,Santa Cruz Xoxocotlán,Reforma Agraria,Felipe Carrillo Puerto Col. Reforma Agraria CP 68130 Xocotlán,17.04390247,-96.7230054,PET
+391,Mi tiendita sin residuos ,Francisca López Poblano,Oaxaca,Oaxaca de Juárez,Arenal,Linderos Col. El Arenal CP 68120 ,17.04361009,-96.7098082,PET
+392,Mi tiendita sin residuos ,Miscelánea Nayeli ,Oaxaca,Oaxaca de Juárez,Arenal,Calle Linderos Col.  El Arenal CP 68126,17.043991318,-96.7114154,PET
+393,Mi tiendita sin residuos ,Yolanda Martínez ,Oaxaca,Oaxaca de Juárez,Unión,"Calle Libertad Col. Unión CP 68030 Oax, Oax",17.068465067,-96.7392009,PET
+394,Mi tiendita sin residuos ,Miscelánea Rocío ,Oaxaca,Oaxaca de Juárez,Vicente Suárez,Segunda de Vicente Suárez Col. Vicente Suárez ,17.071492743,-96.7419811,PET
+395,Mi tiendita sin residuos ,Tendajón La Fortaleza ,Oaxaca,Oaxaca de Juárez,Centro,Constitucion Col. Oaxaca Centro CP 68000,17.065341666667,-96.721713333333,PET
+396,Mi tiendita sin residuos ,Mary Sol,Oaxaca,Oaxaca de Juárez,Centro,Calle Independencia Col. Centro CP 68000,17.061903333333,-96.724281666667,PET
+397,Mi tiendita sin residuos ,Minisuper Fany ,Oaxaca,Oaxaca de Juárez,Centro,Calle Porfirio Díaz 707 A Centro CP 6800,,,PET
+398,Mi tiendita sin residuos ,Mini súper OK Llano,Oaxaca,Oaxaca de Juárez,Oaxaca,Calle Humbolt Col. Oaxaca CP 68000,17.067935,-96.72032,PET
+399,Mi tiendita sin residuos ,Teresa de Jesús,Oaxaca,Oaxaca de Juárez,Centro,Bustamante esquina con rayón 113 Col. Centro ,17.057216346,-96.7265923,PET
+400,Mi tiendita sin residuos ,Miscelánea Rayón y González,Oaxaca,Oaxaca de Juárez,Centro,Rayon Col. Centro CP 68000,17.056797503,-96.718878,PET
+401,Mi tiendita sin residuos ,Miscelánea Don Pilo,Oaxaca,Oaxaca de Juárez,Infonavit F Magón ,Av Central Mz 71 Col.  Infonavit F Magon CP 68020,17.083936431,-96.6969937,PET
+402,Mi tiendita sin residuos ,Miscelánea Miguelito,Oaxaca,Oaxaca de Juárez,Centro ,Porfirio Diaz Col. Centro CP 68000,17.071187401,-96.7247484,PET
+403,Mi tiendita sin residuos ,Miscelánea Farol de Natalia ,Oaxaca,Oaxaca de Juárez,Centro,Gurrion Col. Centro CP 68000,17.0653696,-96.7234772,PET
+404,Mi tiendita sin residuos ,La cieneguita 2 ,Oaxaca,Oaxaca de Juárez,La cieniguita,calle la cienega 11 Col. La cieniguita CP 68127 ,,,PET
+405,Mi tiendita sin residuos ,Miscelánea Yautepec,Oaxaca,Oaxaca de Juárez,Lomas de Crestón ,Calle C Arcoíris Col. Lomas de Crestón CP 68050 Oaxaca ,17.087375017,-96.7208355,PET
+406,Mi tiendita sin residuos ,Miscelánea Rocío ,Oaxaca,Oaxaca de Juárez,Fraccionamiento Lomas del Crestón ,Rocío 308 Col. Fraccionamiento Lomas del Crestón ,17.086310883,-96.7204231,PET
+407,Mi tiendita sin residuos ,Dulcería el Andador,Oaxaca,Oaxaca de Juárez,Centro ,Macedonio Alcala Col. Centro CP 68000,17.066109364,-96.7238512,PET
+408,Mi tiendita sin residuos ,Los Reyes,Oaxaca,Oaxaca de Juárez,Centro ,Calle Morelos Col. Centro CP 6800 Oax ,17.061240876,-96.7159678,PET
+409,Mi tiendita sin residuos ,Chiqui Súper,Oaxaca,Oaxaca de Juárez,Centro,Garcia Virgil Col. Centro CP 68000 Oax,17.067708341,-96.7244788,PET
+410,Mi tiendita sin residuos ,Miscelánea Doña Ofe,Oaxaca,Oaxaca de Juárez,Ocotlán de Morelos,Calle Benito Juarez 111 Col. Ocotlan De Morelos ,16.789918333333,-96.675916666667,PET
+411,Mi tiendita sin residuos ,Mariscal ,Oaxaca,Oaxaca de Juárez,Libertad,Cuauhtémoc Col. Libertad CP 68090 Oax ,17.062224105,-96.73481,PET
+412,Mi tiendita sin residuos ,Miscelánea Memito ,Oaxaca,Ocotlán de Morelos,Centro ,Carretera  Angel  Km 32.50 Col. Centro ,16.78383,-96.67034,PET
+413,Mi tiendita sin residuos ,Miscelánea Lupita ,Oaxaca,Ocotlán de Morelos,Centro ,Independencia Col. El Centro ,16.78598,-96.681101666667,PET
+414,Mi tiendita sin residuos ,Cremería Juquilita 2,Oaxaca,Ocotlán de Morelos,San Antonino Castillo Velasco,Gregorio Gomez Col.San Antonino Castillo Velasco,16.790976666667,-96.673818333333,PET
+415,Mi tiendita sin residuos ,Abarrotes CESMA ,Oaxaca,San Antonino Castillo Velasco,San Antonino Castillo Velasco,Calle  Aldama Col. San Antonino Castillo Velasco,16.8044875,-96.68438,PET
+416,Mi tiendita sin residuos ,Depósito Tavo,Oaxaca,Miahuatlán de Porfirio Díaz, San Juan Chilateca ,Carretera Puerto Angel Col. San Juan Chilateca ,17.089651666667,-96.746436666667,PET
+417,Mi tiendita sin residuos ,Miscelánea Dani ,Oaxaca,Oaxaca de Juárez,Animas Trujano,Carretera a Puerto Ángel sin número Col. Animas Trujano CP 71244 ,16.56925019,-96.7310763,PET
+418,Mi tiendita sin residuos ,Miscelánea Yael ,Oaxaca,San Agustín de las Juntas,San Agustín de las Juntas ,Reforma Col. San Agustín de las Juntas CP71238 ,17.0139528,-96.7127148,PET
+419,Mi tiendita sin residuos ,Miriam,Oaxaca,San Agustín de las Juntas,San Agustín De Las Juntas ,Jalle Río Colorada Col. San Agustín De Las Juntas ,16.993756526,-96.7111259,PET
+420,Mi tiendita sin residuos ,Olguita ,Oaxaca,Oaxaca de Juárez,Centro ,Calle Río Progreso 25A  Col. Centro ,16.990659342,-96.7122037,PET
+421,Mi tiendita sin residuos ,Mis Miriam,Oaxaca,San Antonio de la Cal ,Santa María,Calle Unión Col. Santa María CP 71254 ,,,PET
+422,Mi tiendita sin residuos ,Gómez,Oaxaca,San Bartolo Coyotepec,San Bartolo Coyotepec ,Calle Río Hidalgo Col. San Bartolo Coyotepec ,,,PET
+423,Mi tiendita sin residuos ,Mini Super Esquina ,Oaxaca,Santa Cruz Xoxocotlán,Ocotlán,Calle Benito Juárez Col. Ocotlán CP 71510 ,17.00651,-96.747306666667,PET
+424,Mi tiendita sin residuos ,Lumico,Oaxaca,San Antonio de la Cal ,Villa De Zaachila ,Zalle Río Leobaa Col. Villa De Zaachila ,16.950939198,-96.7540279,PET
+425,Mi tiendita sin residuos ,Felix,Oaxaca,San Raymundo Jalpan,San Raymundo Jalpan ,Jalle Río Calles Col. San Raymundo Jalpan ,16.970325375,-96.7605105,PET
+426,Mi tiendita sin residuos ,Vero ,Oaxaca,Santa Cruz Xoxocotlán,San Juan Bautista,Ralle Río Juarez Col. San Juan Bautista La Raya ,16.978034966,-96.7276187,PET
+427,Mi tiendita sin residuos ,Abarrotes Reyes ,Oaxaca,San Juan Chilateca,San Juan Chilateca,Calle Cuauhtémoc 4 Col. San Juan Chilateca entre avenida del Carmén y calle agricultores CP 71508 ,,,PET
+428,Mi tiendita sin residuos ,Miscelánea la Chiquita ,Oaxaca,Villa de Zaachila,Lomas de la Cuesta,Carretera Ocotlán 1236 Col. Lomas de la Cuesta CP 71317 ,,,PET
