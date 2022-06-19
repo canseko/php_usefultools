@@ -1,7 +1,7 @@
 <?php
 include 'includes/includes.php';
 
-$filename = "csvs/2022-05-03_directorio_nacional.csv";
+$filename = "csvs/2022-06-18_directorio_nacional.csv";
 
 if (($handle = fopen($filename, "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
@@ -20,15 +20,16 @@ if (($handle = fopen($filename, "r")) !== FALSE) {
         $fields["telefono"] = str_replace("\n","<br>",$data[9]);
         $fields["web"] = $data[10];
         $fields["redes_sociales"] = $data[11];
-        $fields["email"] = str_replace("\n","<br>",$data[12]);
+        $fields["instagram"] = $data[12];
+        $fields["email"] = str_replace("\n","<br>",$data[13]);
         
         $obj->add($fields); 
 
         $id_centros_acopio = $obj->get_var("SELECT id FROM centros_acopio ORDER BY id DESC LIMIT 1");
-        for($i = 13; $i <= 36; $i++){
+        for($i = 14; $i <= 38; $i++){
             if($data[$i] != ""){
                 //Se resta quince para obtener el valor del id_material
-                $id_materiales = $i - 12;
+                $id_materiales = $i - 13;
                 $info = $data[$i];
                 $query = "INSERT INTO centros_acopio_materiales (id_centros_acopio, id_materiales) VALUES ($id_centros_acopio, $id_materiales)";
                 $obj->query($query);
