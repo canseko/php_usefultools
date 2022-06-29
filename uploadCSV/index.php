@@ -1,7 +1,7 @@
 <?php
 include 'includes/includes.php';
 
-$filename = "csvs/2022-06-18_directorio_nacional.csv";
+$filename = "csvs/2022-06-28_directorio_nacional.csv";
 
 if (($handle = fopen($filename, "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
